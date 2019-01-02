@@ -1,0 +1,14 @@
+{
+  "name": "composeCheck",
+  "version": "0.0.1",
+  "description": "Demo project",
+  "main": "http-concept.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sahil",
+  "license": "open",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
