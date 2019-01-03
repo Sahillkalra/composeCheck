@@ -9,6 +9,8 @@
   "author": "sahil",
   "license": "open",
   "dependencies": {
-    "node-fetch": "^2.3.0"
+    "js-yaml": "^3.12.0",
+    "node-fetch": "^2.3.0",
+    "ssl-root-cas": "^1.2.5"
   }
 }
